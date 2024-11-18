@@ -14,7 +14,7 @@ namespace project_libraryy
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
-            options.UseSqlServer("Data Source=(local); Initial Catalog=project_LIBRARY; Integrated Security=true; TrustServerCertificate=True");
+            options.UseSqlServer("Data Source=(local); Initial Catalog=LIBRARY; Integrated Security=true; TrustServerCertificate=True");
         }
 
         public DbSet<Book> Books { get; set; }
