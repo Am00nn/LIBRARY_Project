@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\LIBRARY_Project\\project_libraryy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3895B111-0AD6-4432-B157-6CCCE6ED08F4}|project_libraryy\\project_libraryy.csproj|c:\\users\\lenovo\\desktop\\library_project\\project_libraryy\\project_libraryy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3895B111-0AD6-4432-B157-6CCCE6ED08F4}|project_libraryy\\project_libraryy.csproj|solutionrelative:project_libraryy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\LIBRARY_Project\\project_libraryy\\project_libraryy\\Program.cs",
+              "RelativeDocumentMoniker": "project_libraryy\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\LIBRARY_Project\\project_libraryy\\project_libraryy\\Program.cs",
+              "RelativeToolTip": "project_libraryy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T10:25:50.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
